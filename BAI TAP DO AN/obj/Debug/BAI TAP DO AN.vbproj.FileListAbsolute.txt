@@ -1,0 +1,21 @@
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\bin\Debug\BAI TAP DO AN.exe.config
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\bin\Debug\BAI TAP DO AN.exe
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\bin\Debug\BAI TAP DO AN.pdb
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\bin\Debug\BAI TAP DO AN.xml
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\bin\Debug\Guna.UI2.dll
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI TAP DO AN.vbproj.AssemblyReference.cache
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI_TAP_DO_AN.BANHANG.resources
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI_TAP_DO_AN.CHITIETHOADON.resources
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI_TAP_DO_AN.Form1.resources
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI_TAP_DO_AN.Resources.resources
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI_TAP_DO_AN.NHANVIEN.resources
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI_TAP_DO_AN.SANPHAM.resources
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI_TAP_DO_AN.TrangChu.resources
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI TAP DO AN.vbproj.GenerateResource.cache
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI TAP DO AN.vbproj.CoreCompileInputs.cache
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI TAP .F91E149D.Up2Date
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI TAP DO AN.exe
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI TAP DO AN.xml
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI TAP DO AN.pdb
+C:\Users\duc26\OneDrive\Desktop\BAI TAP DO AN\BAI TAP DO AN\obj\Debug\BAI TAP DO AN.exe.config
